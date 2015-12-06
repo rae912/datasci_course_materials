@@ -1,6 +1,8 @@
-Here are the assignments of courses from coursera.
-Course: Data Manipulation at Scale: Systems and Algorithms
 
-datasci_course_materials
+# Data Manipulation at Scale: Systems and Algorithms
 ========================
-2015/12/6
+Here are the assignments of courses from coursera.
+
+[coursera source](https://www.coursera.org/learn/data-manipulation/home/welcome)
+
+Finished at 2015/12/6
